@@ -1,19 +1,18 @@
-# Watch Me
+# **Watch Me**
 
 ## A ESP8266 based watch that has the following:
 
-#### 1) A 0.98" LED screen communicating via I2C;
-#### 2) A real time clock (RTC DS3231) communicating via I2C;
-#### 3) A 3.7V LiPo battery;
-#### 4) A 3.7V LiPo battery charger;
-#### 5) An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor
-#### 6) A step-up 3V to 5V 1A;
-#### 7) A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer;
-#### 8) A 3V buzzer;
-#### 9) 3 tack buttons;
+#### 1) _A 0.98" LED screen communicating via I2C;_
+#### 2) _A real time clock (RTC DS3231) communicating via I2C;_
+#### 3) _A 3.7V LiPo battery;_
+#### 4) _A 3.7V LiPo battery charger;_
+#### 5) _An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor;_
+#### 6) _A step-up 3V to 5V 1A;_
+#### 7) _A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer;_
+#### 8) _A 3V buzzer;_
+#### 9) _3 tack buttons;_
 
-
-### The functionality includes the following:
+## <ins>**The functionality includes the following:**</ins>
 
 #### * The first screen displays the main clock at rest, with the format hh:mm AM/PM
 ![PXL_20250519_205457624](https://github.com/user-attachments/assets/547338b1-fd94-47e9-895d-2206eb1b5d64)
