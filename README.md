@@ -6,9 +6,9 @@
 #### 2) _A real time clock (RTC DS3231) communicating via I2C;_
 #### 3) _A 3.7V LiPo battery;_
 #### 4) _A 3.7V LiPo battery charger;_
-#### 5) _An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor;_
+#### 5) _An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor communicating via I2C;_
 #### 6) _A step-up 3V to 5V 1A;_
-#### 7) _A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer;_
+#### 7) _A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer communicating via I2C;_
 #### 8) _A 3V buzzer;_
 #### 9) _3 tack buttons;_
 
