@@ -43,6 +43,7 @@
 
 #### 9) The next screen reads the battery level and displays it, however I don't have a battery hooked up in the picture, but I did test it and it works great;
 ![PXL_20250519_205242337](https://github.com/user-attachments/assets/1903e8b8-567b-45db-a474-4b8f514f6c41)
+![4712-07](https://github.com/user-attachments/assets/beb255c2-de77-439e-a3da-afe7802c3de3)
 
 #### 10) The next screen allows you to increase the hour by pressing the button for the D7 pin, which writes to the real time clock RTC (DS3231) and the time is maintained by a coin cell;
 ![PXL_20250519_205333220](https://github.com/user-attachments/assets/ad816934-e790-4ec4-a7a3-843cf2bffd00)
