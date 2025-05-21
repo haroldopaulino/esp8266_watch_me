@@ -3,13 +3,13 @@
 
 ## A ESP8266 based watch that has the following:
 
-#### 1) _A 0.98" LED screen communicating via I2C;_
-#### 2) _A real time clock (RTC DS3231) communicating via I2C;_
+#### 1) _A 0.98" OLED screen communicating via I2C on 0x3C;_
+#### 2) _A real time clock (RTC DS1307) communicating via I2C on 0x68;_
 #### 3) _A 3.7V LiPo battery;_
 #### 4) _A 3.7V LiPo battery charger;_
-#### 5) _An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor communicating via I2C;_
+#### 5) _An LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor communicating via I2C on  0x0B;_
 #### 6) _A step-up 3V to 5V 1A;_
-#### 7) _A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer communicating via I2C;_
+#### 7) _A GY-521 MPU-6050 3 Axis Gyroscope and Accelerometer communicating via I2C on 0x69;_
 #### 8) _A 3V buzzer;_
 #### 9) _3 tack buttons;_
 
@@ -43,11 +43,12 @@
 
 #### 9) The next screen reads the battery level and displays it, however I don't have a battery hooked up in the picture, but I did test it and it works great;
 ![PXL_20250519_205242337](https://github.com/user-attachments/assets/1903e8b8-567b-45db-a474-4b8f514f6c41)
+![4712-07](https://github.com/user-attachments/assets/beb255c2-de77-439e-a3da-afe7802c3de3)
 
-#### 10) The next screen allows you to increase the hour by pressing the button for the D7 pin, which writes to the real time clock RTC (DS3231) and the time is maintained by a coin cell;
+#### 10) The next screen allows you to increase the hour by pressing the button for the D7 pin, which writes to the real time clock RTC (DS3231) and the time is maintained by a CR2032 coin cell;
 ![PXL_20250519_205333220](https://github.com/user-attachments/assets/ad816934-e790-4ec4-a7a3-843cf2bffd00)
 
-#### 11) The next screen allows you to increase the minutes by pressing the button for the D7 pin, which writes to the real time clock RTC (DS3231) and the time is maintained by a coin cell;
+#### 11) The next screen allows you to increase the minutes by pressing the button for the D7 pin, which writes to the real time clock RTC (DS3231) and the time is maintained by a CR2032 coin cell;
 ![PXL_20250519_205339630](https://github.com/user-attachments/assets/f684ecac-cf03-46cc-b72b-4ad7dc97df29)
 
 
