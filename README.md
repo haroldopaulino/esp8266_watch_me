@@ -1,5 +1,6 @@
 # **Watch Me**
 ![Screenshot 2025-05-20 at 05 35 09](https://github.com/user-attachments/assets/7feb14fe-da48-4b06-a518-bcba1308e57b)
+![Screenshot 2025-05-22 at 06 16 47](https://github.com/user-attachments/assets/787b6f50-537a-4345-809e-63239274b4c9)
 
 ## A ESP8266 based watch that has the following:
 
